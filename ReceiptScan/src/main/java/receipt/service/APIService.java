@@ -15,7 +15,7 @@ import receipt.model.Product;
 
 public class APIService {
 
-	//Here goes your JSON url
+	//Here goes your JSON URL
 	private static final String POST_API_URL = "";
 
 	/**
