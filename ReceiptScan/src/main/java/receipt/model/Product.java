@@ -2,6 +2,7 @@ package receipt.model;
 
 public class Product {
 
+	//Adjust model to your own needs
 	private String name;
 	private boolean domestic;
 	private float price;
